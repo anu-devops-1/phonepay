@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1712295791,,"wq"
+|2,0,1712295983,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +25,33 @@
 # Registers:
 
 # File marks:
-'0  2  5  ~/hello.java
-|4,48,2,5,1712295791,"~/hello.java"
+'0  2  3  ~/anu.py
+|4,48,2,3,1712295983,"~/anu.py"
+'1  2  5  ~/hello.java
+|4,49,2,5,1712295791,"~/hello.java"
 
 # Jumplist (newest first):
+-'  2  3  ~/anu.py
+|4,39,2,3,1712295983,"~/anu.py"
+-'  1  0  ~/anu.py
+|4,39,1,0,1712295976,"~/anu.py"
+-'  2  5  ~/hello.java
+|4,39,2,5,1712295791,"~/hello.java"
 -'  2  5  ~/hello.java
 |4,39,2,5,1712295791,"~/hello.java"
 -'  1  0  ~/hello.java
 |4,39,1,0,1712295782,"~/hello.java"
+-'  1  0  ~/hello.java
+|4,39,1,0,1712295782,"~/hello.java"
 
 # History of marks within files (newest to oldest):
+
+> ~/anu.py
+	*	1712295982	0
+	"	2	3
+	^	2	4
+	.	2	3
+	+	2	3
 
 > ~/hello.java
 	*	1712295788	0
